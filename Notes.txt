@@ -1,0 +1,12 @@
+so if button is released and within bound of a card
+and if that card is compatible with its rank.
+
+Basket!
+so when I click the field if card is able to move then
+ I put that card into a basket and draw the basket.
+
+when button is released I check the position of button and
+set to that field.
+
+when released I get the position of the top card in the basket
+check if that position is vaild
